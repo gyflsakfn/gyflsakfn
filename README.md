@@ -16,7 +16,6 @@
   ![Sass](https://img.shields.io/badge/-Sass-B7F0B1?style=for-the-badge&logo=Sass)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=JavaScript&logoColor=000000&labelColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
   ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
-  ![Redux](https://img.shields.io/badge/-Redux-BA55D3?style=for-the-badge&logo=Redux)
   </em>
 </p>
 <br />
