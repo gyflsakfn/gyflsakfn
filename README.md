@@ -17,7 +17,6 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=JavaScript&logoColor=000000&labelColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
   ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-BA55D3?style=for-the-badge&logo=Redux)
-  //![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
   </em>
 </p>
 <br />
