@@ -5,7 +5,7 @@
     <h3>
       My Learning Blog
       <a href="https://developer-jm.tistory.com/">
-      정민의 개발자 노트 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbH7d09%2FbtrJaWmzLAx%2Ftuyu0Y06SqXqYlqDC461m0%2Fimg.png" height="30px" />
+      정민의 개발자 노트 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbH7d09%2FbtrJaWmzLAx%2Ftuyu0Y06SqXqYlqDC461m0%2Fimg.png" height="20px" />
       </a>
     </h3>
     <br>
