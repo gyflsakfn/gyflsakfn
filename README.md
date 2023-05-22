@@ -2,14 +2,14 @@
 
 <p>
   <em>
-    <h3>
-      My Learning Blog
+    <h3> My Learning Blog    </h3>
       <a href="https://developer-jm.tistory.com/">
-      정민의 개발자 노트 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbH7d09%2FbtrJaWmzLAx%2Ftuyu0Y06SqXqYlqDC461m0%2Fimg.png" height="20px" />
+       <img src="https://i.namu.wiki/i/3wfnypmuLqLgi8fpExqgWTJjCvb1cqp3RKV_kq3IQA5tnrFTsIqm_Vrj1zpimBhQU3pCx444ySvuCnZwr7jD1luqf2Fhu1vduQWL9HoKnbwsrKMLnkT6V7z6ORbbAac9T5Do3OHmnzXsXrcR4qu8IQ.webp" height="30px" />
       </a>
-    </h3>
-    <br>
-    <h3> My teck stack 📚 </h3>
+
+
+ <br>
+  <h3> My teck stack 📚 </h3>
     
   ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
   ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
